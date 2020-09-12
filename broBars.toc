@@ -1,0 +1,10 @@
+## Interface: 80300
+## Title: |cFF3366FFbro|r|cFFFFFFFFBars
+## Version: 4.0
+## Author: havlok
+## Notes: A dynamic set of bars for your bros.
+
+# Retail 2: Electric Boogaloo!
+
+config.lua
+broBars.lua
