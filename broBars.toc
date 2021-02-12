@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 90002
 ## Title: |cFF3366FFbro|r|cFFFFFFFFBars
 ## Version: 4.0
 ## Author: havlok
